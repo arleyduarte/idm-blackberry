@@ -3,10 +3,10 @@ RIM-COD-Module-Name: idmblackberry
 RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_bbapi_browser,net_rim_os,net_rim_locationapi
 MIDlet-Jar-Size: 138508
 MIDlet-1: IDM,img/icon.png,
-RIM-COD-Creation-Time: 1355596482
+RIM-COD-Creation-Time: 1355597119
 MIDlet-Jar-URL: idm-blackberry.jar
 RIM-COD-URL: idmblackberry.cod
-RIM-COD-SHA1: de 08 bc 6a ef 9d 85 5f 30 7c d1 d5 db de 77 56 9e f5 8a da
+RIM-COD-SHA1: d0 07 39 ad 9c 6c 4b 1f 0c e4 83 12 27 88 35 04 70 f9 a1 d4
 RIM-COD-Size: 58432
 MicroEdition-Configuration: CLDC-1.1
 MIDlet-Version: 1.0.0
